@@ -34,7 +34,7 @@
 - 🎓 **Pre-Final Year IT Student at KPRIET**
 - 🔭 Currently learning **Full Stack Development**
 - 👯 Open to **Open Source & Hackathon collaborations**
-- 💬 Ask me about **Java, Python, React**
+- 💬 Ask me about **Java,C, Python **
 - 🚀 Aspiring **Software Development Engineer (SDE)**
 - 🌱 Passionate about building **impact-driven tech solutions**
 
